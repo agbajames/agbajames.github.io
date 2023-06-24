@@ -1,11 +1,13 @@
 title: Agba James # your name (or website title) here
 logo: "/images/Headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+I am a Data Scientist with over 5 years of professional experience in the fields of analytics, banking, and sales. I hold a master's degree in Artificial Intelligence & Data Science from the University of Hull. 
   <br><br>
-  Second description 
+During my career, I have gained valuable expertise in leveraging data to derive meaningful insights and drive informed decision-making. I have applied my skills in various industries, particularly in the banking sector, where I have analyzed complex datasets, developed predictive models, and contributed to strategic initiatives. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/agbajames/"> View My LinkedIn Profile </a> 
+  <br><br>
+  <a href="https://github.com/agbajames"> View My Github Repositories </a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
