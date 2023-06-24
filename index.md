@@ -1,14 +1,15 @@
-## Portfolio
+## Selected projects in Data Science, Machine Learning, Deep Learning, NLP, and Data Analysis
 
 ---
+### Deep Learning --- Computer Vision
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+Brain Tumour MR Images Classification
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Deep Learning --- Natural Language Processing (NLP)
+
+Deep NLP For Fake News Detection
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
